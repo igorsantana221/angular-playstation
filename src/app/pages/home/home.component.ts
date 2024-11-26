@@ -9,5 +9,5 @@ import { CardComponent } from "../../components/card/card.component";
   styleUrl: './home.component.css'
 })
 export class HomeComponent {
-
+  gameCover: string = '/bt-4.jpg'
 }
